@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/healthhackgt-PCL_treatment_options/static/css/main.cb79d999.chunk.css",
+    "main.js": "/healthhackgt-PCL_treatment_options/static/js/main.f23a750b.chunk.js",
+    "main.js.map": "/healthhackgt-PCL_treatment_options/static/js/main.f23a750b.chunk.js.map",
+    "runtime-main.js": "/healthhackgt-PCL_treatment_options/static/js/runtime-main.dfc2db7a.js",
+    "runtime-main.js.map": "/healthhackgt-PCL_treatment_options/static/js/runtime-main.dfc2db7a.js.map",
+    "static/css/2.258cf7a8.chunk.css": "/healthhackgt-PCL_treatment_options/static/css/2.258cf7a8.chunk.css",
+    "static/js/2.61940b7b.chunk.js": "/healthhackgt-PCL_treatment_options/static/js/2.61940b7b.chunk.js",
+    "static/js/2.61940b7b.chunk.js.map": "/healthhackgt-PCL_treatment_options/static/js/2.61940b7b.chunk.js.map",
+    "static/js/3.96f2e408.chunk.js": "/healthhackgt-PCL_treatment_options/static/js/3.96f2e408.chunk.js",
+    "static/js/3.96f2e408.chunk.js.map": "/healthhackgt-PCL_treatment_options/static/js/3.96f2e408.chunk.js.map",
+    "index.html": "/healthhackgt-PCL_treatment_options/index.html",
+    "static/css/2.258cf7a8.chunk.css.map": "/healthhackgt-PCL_treatment_options/static/css/2.258cf7a8.chunk.css.map",
+    "static/css/main.cb79d999.chunk.css.map": "/healthhackgt-PCL_treatment_options/static/css/main.cb79d999.chunk.css.map",
+    "static/js/2.61940b7b.chunk.js.LICENSE.txt": "/healthhackgt-PCL_treatment_options/static/js/2.61940b7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc2db7a.js",
+    "static/css/2.258cf7a8.chunk.css",
+    "static/js/2.61940b7b.chunk.js",
+    "static/css/main.cb79d999.chunk.css",
+    "static/js/main.f23a750b.chunk.js"
+  ]
+}
